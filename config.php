@@ -24,7 +24,7 @@ $CFG->dboptions = array (
 
 $CFG->wwwroot   = getenv('WWWROOT');
 $CFG->dataroot  = getenv('DATAROOT');
-$CFG->admin     = getenv('ADMIN');
+$CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
 
