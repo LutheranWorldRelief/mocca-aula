@@ -86,6 +86,9 @@ class dml_connection_exception extends dml_exception {
      * @param string $error Optional debugging information.
      */
     function __construct($error) {
+		//Redirección Pag HTML con mensaje
+		header('Location: '.$_SERVER[‘HTTP_HOST’].'/bd_fuera_linea.html');
+		exit;
         $errorinfo = $error;
         parent::__construct('dbconnectionfailed', NULL, $errorinfo);
     }

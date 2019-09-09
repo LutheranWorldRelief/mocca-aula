@@ -1,6 +1,5 @@
 <?php  // Moodle configuration file
 require(dirname(__FILE__).'/../vendor/autoload.php');
-//$dotenv = Dotenv\Dotenv::create('..');
 $dotenv = Dotenv\Dotenv::create(__DIR__.'/../');
 $dotenv->load();
 
