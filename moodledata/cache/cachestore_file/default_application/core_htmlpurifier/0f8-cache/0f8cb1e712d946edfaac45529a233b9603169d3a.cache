@@ -1,0 +1,6 @@
+s:343:"<p>Puede buscar muchas palabras al mismo tiempo y puede refinar la búsqueda del siguiente modo:</p>
+
+<ul><li>palabra - buscar cualquier coincidencia de ésta palabra en el texto.</li>
+<li>+palabra - se encontrarán sólo las palabras que coincidan exactamente.</li>
+<li>-palabra - no incluir resultados que contengan ésta palabra.</li>
+</ul>";

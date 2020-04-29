@@ -1,0 +1,3 @@
+s:679:"<p>Si la disponibilidad es configurada como 'Ocultar a los estudiantes', la actividad o recurso estará solo disponible para usuarios con permiso para ver las actividades ocultas (por defecto, usuarios con el rol de profesor o profesor sin permiso de edición).<br /><br />
+Si el curso contiene muchas actividades o recursos, la página del curso puede simplificarse al configurar la disponibilidad como 'Hacer disponible pero no mostrar en la página del curso'. En este caso, un link a la actividad o recurso debe ser facilitado desde otro lugar, como por ejemplo desde el recurso página. La actividad aún estaría listada en el libro de calificaciones y otros informes.</p>
+";
